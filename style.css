@@ -1,0 +1,23 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+body{
+    background-color: rgb(0, 255, 234);
+}
+
+
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+
+/* img:{
+    transform: scale(3);
+} */
+ 
