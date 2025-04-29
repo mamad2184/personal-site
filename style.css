@@ -1,14 +1,13 @@
-div{
-    width: 200px;
-    height: 200px;
-}
-
-
-
 body{
     background-color: rgb(0, 255, 234);
 }
 
+
+div{
+    width: 350px;
+    height: auto;
+    margin:auto;
+}
 
 
 img{
@@ -16,8 +15,6 @@ img{
     height: auto;
 }
 
-
-/* img:{
-    transform: scale(3);
-} */
- 
+div:active{
+    width:600px;
+}
